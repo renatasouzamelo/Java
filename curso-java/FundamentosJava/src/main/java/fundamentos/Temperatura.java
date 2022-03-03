@@ -1,7 +1,12 @@
+
 package fundamentos;
 
-public class temperatura {
-	public static void main(String[] args) {
+/**
+ *
+ * @author renata.melo
+ */
+public class Temperatura {
+    public static void main(String[] args) {
 		// (˚F -32) * 5/9 = ˚C	
 		
 		final double fator = 5.0/9;
@@ -15,6 +20,6 @@ public class temperatura {
 		fahrenheit = 40;
 		resultado = (fahrenheit - ajuste) * fator;
 		System.out.println("O resultado da conversao de fahrenheit para Celsios é de:" + resultado+ "C˚");
-	}
-
+    
+}
 }

@@ -1,6 +1,8 @@
+
 package fundamentos;
 
-public class inferencia {
+
+    public class Inferencia {
 
 	public static void main(String[] args) {
 		
@@ -27,3 +29,6 @@ public class inferencia {
 		
 	}
 }
+
+    
+
