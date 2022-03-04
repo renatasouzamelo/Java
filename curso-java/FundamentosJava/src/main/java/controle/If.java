@@ -16,6 +16,10 @@ public class If {
             System.out.println("Parabéns!!!");
             
         }
+        if (7 >= media) if (media <0) {
+        } 
+            System.out.println("Reprovado!!!");
+    
         
         
     }

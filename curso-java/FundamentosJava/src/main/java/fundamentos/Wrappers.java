@@ -17,6 +17,14 @@ public class Wrappers {
         System.out.println(b.byteValue());
         System.out.println(s.toString());
         System.out.println(i * 3); 
+        
+        // %d int
+        // %f float (real)
+        // %2f Double (real) com 2 casas decimais
+        //%b Boolean
+        //%c char 
+       
+        
     }
     
 }
