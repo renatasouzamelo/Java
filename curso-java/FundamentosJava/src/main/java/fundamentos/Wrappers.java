@@ -20,7 +20,7 @@ public class Wrappers {
         
         // %d int
         // %f float (real)
-        // %2f Double (real) com 2 casas decimais
+        //%.2ff Double (real) com 2 casas decimais
         //%b Boolean
         //%c char 
        

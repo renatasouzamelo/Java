@@ -30,6 +30,9 @@ public class TesteCalculadora {
                 String.format("%d é par: %s",
                         numeroImpar,
                         calc.isPar(numeroImpar) ? "SIM" : "NÃO"));
+
+
+                        //crtl+shift+s formata
         
     }
 }
